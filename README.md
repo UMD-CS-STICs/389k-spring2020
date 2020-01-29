@@ -95,7 +95,7 @@ afterwards.
 | 11 (4/10) | Web Sockets| |
 | 12 (4/17) | Deployment| |
 | 13 (4/24) | Javscript Libraries (Chart.js / Typed.js) | 
-| 14 (5/1) | UX / UI Presentation | 
+| 14 (5/1) | UX / UI | 
 | 15 (5/8) | Presentations | Final Project DUE |
 
 ## Projects
