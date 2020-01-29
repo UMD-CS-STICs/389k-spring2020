@@ -1,6 +1,6 @@
 # 389kfall19
 # CMSC389K: Full-stack Web Development with Node.js
-![Image](https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/nlMKa4JeSBysXoj7pa90)
+![Image](https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png)
 
 ## Course Description
 This course provides a comprehensive, practical introduction to modern
