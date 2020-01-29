@@ -82,7 +82,7 @@ afterwards.
 
 | Week | Topic | Assignment |
 | ----|----|----- |
-| 1 (1/31) | Intro + HTML/CSS | Personal Website (P1) |
+| 1 (1/31) | Intro + HTML/CSS + Git| Personal Website (P1) |
 | 2 (2/7) | Javascript Language w/ DOM | P1 DUE, JS Function Implementation (P2) |
 | 3 (2/14) | jQuery and AJAX | P2 DUE, 50 State Game (P3) |
 | 4 (2/21) | Node.js | |
@@ -93,7 +93,7 @@ afterwards.
 | 9 (3/27) | Databases | |
 | 10 (4/3) | Midterm Project Presentation | Midterm Project DUE & Final Project OUT |
 | 11 (4/10) | Web Sockets| |
-| 12 (4/17) | Deployment & Advanced Git| |
+| 12 (4/17) | Deployment| |
 | 13 (4/24) | Javscript Libraries (Chart.js / Typed.js) | 
 | 14 (5/1) | UX / UI Presentation | 
 | 15 (5/8) | Presentations | Final Project DUE |
