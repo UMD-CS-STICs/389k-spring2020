@@ -119,7 +119,7 @@ developing your own tests and for using appropriate testing techniques. Also,
 we expect your projects to use proper style and documentation.
 
 ## Outside-of-class communication with course staff
-We will interact with students outside of class in primarily two ways: online at [Piazza](piazza.com/umd/spring2018/cmsc389k/home) and office hours by appointment.
+We will interact with students outside of class in primarily two ways: online at [Piazza](piazza.com/umd/spring2020/cmsc389k/home) and office hours by appointment.
 Email should only be used for emergencies and non-class related questions
 (e.g. projects).
 
