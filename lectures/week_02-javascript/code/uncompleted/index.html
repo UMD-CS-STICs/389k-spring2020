@@ -6,9 +6,22 @@
 </head>
 <body>
 	<h1>Hello World</h1> 	
-
+	<h1> this is html <h1>
 	<script>
-		
+		console.log("hello world");
+
+		let names = ['Robert', 'Camille', 'Dickerson'];
+
+for (let i = 0; i < names.length; i ++) {
+	// console.log(names[i]);
+}
+for (let i in names) {
+	// console.log(names[i])
+} 
+
+for (let name of names) {
+	// console.log(name)
+}
 
 		// Arrays
 
@@ -16,6 +29,63 @@
 
 		// First class Functions
 
+function printHello() {
+	console.log("Hello World")
+}
+
+printHello()
+
+
+function add(x,y) {
+	return x + y
+}
+
+console.log(add(3,5))
+
+function reverser(name) {
+	return name.split('').reverse().join('')
+}
+
+function applyTo(operator) {
+	return operator(3,2)
+}
+
+console.log(applyTo(add));
+
+// console.log(reverser('Robert'))
+
+// Anonymous Functions
+
+let funcs = [function(){console.log("hello")}, function() {console.log('bye')}];
+
+
+for (let func of funcs) {
+	func()
+}
+
+
+let robert = {
+	age: 21,
+	occupation: {
+		nameOfOccupation: "student",
+		salary: 0
+	},
+	sayHello: function() {
+		console.log("hello")
+	},
+	saySomething: function(saying) {
+		console.log(saying)
+	},
+	
+}
+
+robert.run = function() {
+	console.log("I am running");
+}
+
+robert.run()
+
+console.log(robert.occupation.salary)
 	</script>
 
 </body>
