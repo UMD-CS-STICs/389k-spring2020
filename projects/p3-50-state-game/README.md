@@ -1,5 +1,5 @@
 # 50 States Game
-### Out: 9/13/19 | Due: 9/27/19 11:59 PM (Deadline 9/28/19 11:59 PM for 10% reduction)
+### Out: 2/14/20 | Due: 2/28/20 11:59 PM (Deadline 2/29/20 11:59 PM for 10% reduction)
 
 ## Overview
 In this project you will implement a game about the 50 states in the US.
