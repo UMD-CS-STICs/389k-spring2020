@@ -9,6 +9,7 @@ app.use(bodyparser.urlencoded({extended: false}));
 
 app.get('/', function(req, res) {
 	console.log(operations);
+	console.log(operations['factorial'])
 	res.send("");
 });
 

@@ -21,3 +21,5 @@ module.exports = {
 	square: square,
 	root: root
 }
+
+//operations.js
