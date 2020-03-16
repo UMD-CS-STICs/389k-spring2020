@@ -1,5 +1,5 @@
 # Midterm Project
-#### Out: 04/13/20 | Due: 04/10/20 11:59 PM | Deadline: 04/11/20 11:59 PM
+#### Out: 03/13/20 | Due: 04/10/20 11:59 PM | Deadline: 04/11/20 11:59 PM
 
 ### Overview
 
