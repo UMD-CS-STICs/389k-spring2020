@@ -90,13 +90,13 @@ afterwards.
 | 6 (3/6) | Express.js (con't) | |
 | 7 (3/13) | Express.js (cont.) / Handlebars.js | P4 DUE & Midterm Project |
 | 8 (3/20) | SPRING BREAK |  |
-| 9 (3/27) | Databases | |
-| 10 (4/3) | Midterm Project Presentation | Midterm Project DUE & Final Project OUT |
-| 11 (4/10) | Web Sockets| |
-| 12 (4/17) | Deployment| |
-| 13 (4/24) | Javscript Libraries (Chart.js / Typed.js) | 
-| 14 (5/1) | UX / UI | 
-| 15 (5/8) | Presentations | Final Project DUE |
+| 9 (3/27) | SPRING BREAK | |
+| 10 (4/3) |  | |
+| 11 (4/10) | Databases| Midterm Project DUE & Final Project OUT |
+| 12 (4/17) | Sockets| |
+| 13 (4/24) | UX/ UI | 
+| 14 (5/1) | | 
+| 15 (5/8) | | Final Project DUE |
 
 ## Projects
 Projects must be submitted electronically following the instructions given in
