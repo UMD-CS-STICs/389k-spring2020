@@ -1,6 +1,6 @@
 # Week 9: Databases
 
-A prerequisite for this lecture is that you have done everything in the [pre_class.md](https://github.com/CMSC389K/spring17/blob/master/lectures/week_9/pre_class.md) file. 
+Please use our [video lecture](https://www.dropbox.com/s/1pmdjz5wgg4febo/Databases%20Lecture.mp4?dl=0) for this week to follow along with the following tutorial. 
 
 ### What is a database?
 
@@ -76,7 +76,11 @@ Thanks to [this](http://stackoverflow.com/questions/18531696/why-do-we-need-what
 
 ### Interact w/ a Database
 
-Navigate to [this](https://github.com/CMSC389K/spring17/tree/master/lectures/week_9/code) folder and copy the `shell` directory.
+Please pull this weeks code before we begin. You will be working out of the shell directory, and the completed code is in the completed directory. 
+
+Before we jump into the code, you need to make an mlab account. To do this, click [here](https://mlab.com/) and hit sign up. You can use any email address, and leave all of the default settings when setting up your account. Once your account is created, follow the instructions from this [this week's lecture video](https://www.dropbox.com/home?preview=Databases+Lecture.mp4) in order to finish setting up your database. 
+
+Once you've done that, open up your code editor with this week's code. 
 
 Let us create a database of movies. Navigate to `models/Movie.js` file and add the following lines to the top of the file to require in the mongoose module.
 
@@ -174,6 +178,9 @@ Now, we take the `movieSchema` object and associate it with a certain model. The
 var Movie = mongoose.model('Movie', movieSchema);
 module.exports = Movie;
 ```
+
+For the next part involving the `.env` file, follow along using our [lecture video starting at 13:30](https://www.dropbox.com/home?preview=Databases+Lecture.mp4).  
+
 
 Now, please open up the `.env` file sitting in the project's root. Replace the text `YOUR URL HERE` with your link from [mlab.com](mlab.com). Make sure to grab the URL associated with Node 2.2.12 or later. Now, please open the `index.js` file. Let us go over some existing code.
 
