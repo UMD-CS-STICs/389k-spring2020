@@ -1,6 +1,6 @@
 # Week 9: Databases
 
-Please use our [video lecture](https://www.dropbox.com/s/1pmdjz5wgg4febo/Databases%20Lecture.mp4?dl=0) for this week to follow along with the following tutorial. 
+Please use our [video lecture](https://www.youtube.com/watch?v=A0R4Vyy2BMk) for this week to follow along with the following tutorial. 
 
 ### What is a database?
 
@@ -78,7 +78,7 @@ Thanks to [this](http://stackoverflow.com/questions/18531696/why-do-we-need-what
 
 Please pull this weeks code before we begin. You will be working out of the shell directory, and the completed code is in the completed directory. 
 
-Before we jump into the code, you need to make an mlab account. To do this, click [here](https://mlab.com/) and hit sign up. You can use any email address, and leave all of the default settings when setting up your account. Once your account is created, follow the instructions from this [this week's lecture video](https://www.dropbox.com/home?preview=Databases+Lecture.mp4) in order to finish setting up your database. 
+Before we jump into the code, you need to make an mlab account. To do this, click [here](https://mlab.com/) and hit sign up. You can use any email address, and leave all of the default settings when setting up your account. Once your account is created, follow the instructions from this [this week's lecture video](https://www.youtube.com/watch?v=A0R4Vyy2BMk) in order to finish setting up your database. 
 
 Once you've done that, open up your code editor with this week's code. 
 
@@ -179,7 +179,7 @@ var Movie = mongoose.model('Movie', movieSchema);
 module.exports = Movie;
 ```
 
-For the next part involving the `.env` file, follow along using our [lecture video starting at 13:30](https://www.dropbox.com/home?preview=Databases+Lecture.mp4).  
+For the next part involving the `.env` file, follow along using our [lecture video starting at 13:30](https://www.youtube.com/watch?v=A0R4Vyy2BMk).  
 
 
 Now, please open up the `.env` file sitting in the project's root. Replace the text `YOUR URL HERE` with your link from [mlab.com](mlab.com). Make sure to grab the URL associated with Node 2.2.12 or later. Now, please open the `index.js` file. Let us go over some existing code.
