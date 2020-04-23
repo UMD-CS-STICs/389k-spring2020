@@ -1,5 +1,7 @@
 # Week 12: Web Sockets
 
+This week's lecture video is available [here!](https://www.youtube.com/watch?v=mcCID1lj5I4)
+
 ### What is a web socket?
 
 "WebSocket is a computer communications protocol, providing full-duplex communication channels over a single (connection)." - [Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
